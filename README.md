@@ -9,7 +9,7 @@ Note: THIS TOOL IS JUST ONLY FOR EDUCATIONAL PURPOSE..GIVING DDOS ATTACKs WITHOU
 
 How To Install V-DdoS In Termux
 The Tool Installation Process Is Very Easy.. Just Open Your Termux & Type This Provided Commands!!
-
+```
 $ apt update && apt upgrade
 $ pkg install python
 $ pkg install python2
@@ -20,9 +20,11 @@ $ cd V-DdoS
 $ chmod +x V-DdoS.py
 $ python2 V-DdoS.py
 To Run
-
+```
+```
 $ cd V-DdoS
 $ python2 V-DdoS.py
+```
 Your Tool Install & Setup Done!!..Now Go To Google & Search`Website IP Finder`Now Open The 1st Wesite & Place Your Target Website Url e.g. www.biribaba.com..
 
 After Getting The Website IP , Copy The IP & Come To The Termux.. Now Paste The Target Website IP On `Ip Target:` & Give The Port Number `8080`
