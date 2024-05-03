@@ -21,8 +21,8 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet ddos")
 print
-print "Coded By : ATOMEDIA"
-print "Author   : SIDHANIE"
+print "Coded By : AltoMedia"
+print "Author   : Sidhanie"
 print "Github   : github.com/kdsmedia"
 print "Telegram : t.me/altoimediacloudbot"
 print "Join Cracker Space TG Group To Get Premium Apk(s) Free"
@@ -33,7 +33,7 @@ port = input("Port       : ")
 os.system("clear")
 print("\033[93m")
 os.system("figlet ddos Attack")
-print("Team : ALTOMEDIA")
+print("Team : altomedia")
 print ("\033[92m")
 print "[                    ] 0% "
 time.sleep(5)
