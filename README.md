@@ -7,39 +7,36 @@ This is a python coded tool for ddos attacks.. you can easily give ddos attacks 
 !!Warning!!
 Note: THIS TOOL IS JUST ONLY FOR EDUCATIONAL PURPOSE..GIVING DDOS ATTACKs WITHOUT SITE OWNER'S PERMISSION IS ILLEGAL.. SO USE IT AT YOUR OWN RISK.. WE'LL BE NOT RESPONSIBLE FOR ANY TYPES OF MISISSUES!!!
 
-How To Install V-DdoS In Termux
+How To Install ddos In Termux
 The Tool Installation Process Is Very Easy.. Just Open Your Termux & Type This Provided Commands!!
+
 ```
-$ apt update && apt upgrade
-$ pkg install python
-$ pkg install python2
-$ pkg install git
-$ pkg install figlet
-$ git clone https://www.github.com/T34mV18rs/V-DdoS.git
-$ cd V-DdoS
-$ chmod +x V-DdoS.py
-$ python2 V-DdoS.py
-To Run
+apt update && apt upgrade -y
+pkg install python -y
+pkg install git -y
+pkg install figlet -y
+git clone https://github.com/kdsmedia/ddos.git
+cd ddos
+chmod +x ddos.py
+python ddos.py
+
 ```
+To run:
+
 ```
-$ cd V-DdoS
-$ python2 V-DdoS.py
+cd ddos
+$ python ddos.py
 ```
+
+
+
 Your Tool Install & Setup Done!!..Now Go To Google & Search`Website IP Finder`Now Open The 1st Wesite & Place Your Target Website Url e.g. www.biribaba.com..
 
 After Getting The Website IP , Copy The IP & Come To The Termux.. Now Paste The Target Website IP On `Ip Target:` & Give The Port Number `8080`
 
 Booom!! Your Ddos Attack Had Been Started...
 
-About Us
 
-T34m V18rs ( Team Virus ) is a Bangladeshi FB Spamming & Termux Hacker Group..We make working tools for termux..You can reach us by visiting this links.. Thank You So Much For Using Our Tool(s)
-
-Connect With Us:
-
-(Tap To Redirect)
-
-Github Github Github
 
 THANKS FOR USING OUR TOOL
-©T34mV18rs
+
